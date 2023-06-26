@@ -1,0 +1,39 @@
+{
+  "name": "26June",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_26June"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "26June_b1": {
+      "directory": "26June_b1"
+    }
+  },
+  "blockId": "VLe6wl6vI0VeApIOB3kEz",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
